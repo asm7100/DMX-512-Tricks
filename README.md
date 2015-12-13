@@ -11,3 +11,20 @@ Powered by USITT Engineering Commission, the standard began in 1986, with subseq
 DMX appears as the solution to the problem of incompatibility that existed between brands by using proprietary protocols, which forced them to take control of management for each brand of lights to be had.
 
 DMX was originally intended for use in link controllers and dimmers from different manufacturers, a protocol that would be used as a last resort after trying other methods more in property, not GNU. However, it soon became the preferred protocol not only to link controllers and dimmers, but also to control lighting equipment as scanners and moving heads, and special effects devices such as smoke machines. As DMX512 is a transmission system unreliable data should not be used to control Pyrotechnics, for this task they are sometimes used MIDI controllers
+
+***
+
+## Licence
+* [GNU General Public Licence Version 3](https://github.com/daniel3514/Arduino-DMX-512-Tester-Controller/blob/master/Licencias/Licence%20-%20Firmware.md)
+* [Open Source Hardware (OSHW) v1.0](https://github.com/daniel3514/Arduino-DMX-512-Tester-Controller/blob/master/Licencias/Licence%20-%20Hardware.md)
+
+## Autor
+- Copyright (C) 2015
+- [Daniel Roberto Becerril Angeles](https://www.facebook.com/daniel.3514)
+
+[![Email](https://github.com/daniel3514/Arduino-DMX-512-Tester-Controller/blob/master/Social/logos/email%2050x50.jpg)](mailto:daniel3514@gmail.com)
+[![Facebook](https://github.com/daniel3514/Arduino-DMX-512-Tester-Controller/blob/master/Social/logos/Facebook%2050x50.png)](https://www.facebook.com/dmx512tricks/)
+[![Twitter](https://github.com/daniel3514/Arduino-DMX-512-Tester-Controller/blob/master/Social/logos/Twitter%2050x50.png)](https://twitter.com/daniel3514)
+[![Tech Inside](https://github.com/daniel3514/Arduino-DMX-512-Tester-Controller/blob/master/Social/logos/techinside%2045x45.png)](https://techinsideblog.wordpress.com/)
+[![GitHub](https://github.com/daniel3514/Arduino-DMX-512-Tester-Controller/blob/master/Social/logos/github%2050x50.png)](https://github.com/daniel3514/DMX-512-Tricks)
+***
